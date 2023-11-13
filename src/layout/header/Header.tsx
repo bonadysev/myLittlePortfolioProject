@@ -15,5 +15,5 @@ export const Header = () => {
 };
 
 const StyledHeader = styled.header`
-  background-color: cadetblue;
+  background-color: gainsboro ;
 `
