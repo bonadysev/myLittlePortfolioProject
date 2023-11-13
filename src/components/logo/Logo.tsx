@@ -5,7 +5,7 @@ import { Icon } from '../icon/Icon';
 export const Logo = () => {
     return (
         <a href="">
-            <Icon iconId={'image0_11_4092'}/>
+            <Icon iconId={'Group 1'}/>
         </a>
 
     );
